@@ -7,10 +7,10 @@ export default function Contact() {
     return (
         <div>
             <h2>C&nbsp;O&nbsp;N&nbsp;T&nbsp;A&nbsp;C&nbsp;T</h2>
-            <p><b>Email:</b> amandacdulaney@gmail.com</p>
             <div id="icon-container">
                 <figure id="avatar">
                     <img src={avatar} alt="Avatar of Amanda." />
+                    <p><b>Email:</b> amandacdulaney@gmail.com</p>
                 </figure>
                 <div id="icons">
                     <a href="https://www.linkedin.com/in/amandacdulaney/"><img src={linkedin} alt="LinkedIn." /></a>
