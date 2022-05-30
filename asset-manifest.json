@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.862c806c.css",
+    "main.js": "/React-Portfolio/static/js/main.f0f59711.js",
+    "static/media/librarybackground.png": "/React-Portfolio/static/media/librarybackground.a019315b1f99af29c3a9.png",
+    "static/media/ga-hikes2.png": "/React-Portfolio/static/media/ga-hikes2.08a9e005885171e6f4a4.png",
+    "static/media/stock-photo-mountains.png": "/React-Portfolio/static/media/stock-photo-mountains.172ba2f6a8a87e340e6d.png",
+    "static/media/placeholder-image-2.jpg": "/React-Portfolio/static/media/placeholder-image-2.30802b5ac127d9b2082f.jpg",
+    "static/media/placeholder-image-12.png": "/React-Portfolio/static/media/placeholder-image-12.e99d2550a7472eda5fcd.png",
+    "static/media/placeholder-image-11.jpg": "/React-Portfolio/static/media/placeholder-image-11.4805363605aa20519379.jpg",
+    "static/media/Amanda Dulaney - 2022 Tech Resume.pdf": "/React-Portfolio/static/media/Amanda Dulaney - 2022 Tech Resume.ee8909e4a287356d7038.pdf",
+    "static/media/resume.png": "/React-Portfolio/static/media/resume.946d9fcaf393ff5fe9b2.png",
+    "static/media/scheduler.png": "/React-Portfolio/static/media/scheduler.01350f46cced31d4b501.png",
+    "static/media/amanda-avatar.svg": "/React-Portfolio/static/media/amanda-avatar.4cb340261147e882d069bd071095248a.svg",
+    "index.html": "/React-Portfolio/index.html",
+    "main.862c806c.css.map": "/React-Portfolio/static/css/main.862c806c.css.map",
+    "main.f0f59711.js.map": "/React-Portfolio/static/js/main.f0f59711.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.862c806c.css",
+    "static/js/main.f0f59711.js"
+  ]
+}
