@@ -11,7 +11,7 @@ For this project, I created a portfolio page to function as a digital resume. Th
 ## Usage
 Visit my [portfolio website here](XXX) and see below for a current screenshot.
 
-![Screenshot of Completed Website](assets/images/screenshot-portfolio.png)
+![Screenshot of Completed Website](src\components\images\screenshot-portfolio.png)
 
 ## Credits
 A thanks to my resources:
