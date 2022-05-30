@@ -9,9 +9,9 @@ For this project, I created a portfolio page to function as a digital resume. Th
 - [Badges](#badges)
 
 ## Usage
-Visit my [portfolio website here](XXX) and see below for a current screenshot.
+Visit my [portfolio website here](https://quadrilateral0.github.io/React-Portfolio/) and see below for a current screenshot.
 
-![Screenshot of Completed Website](src\components\images\screenshot-portfolio.png)
+![Screenshot of Completed Website](/React-Portfolio/src/components/images/screenshot-portfolio.png)
 
 ## Credits
 A thanks to my resources:
